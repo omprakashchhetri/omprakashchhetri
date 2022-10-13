@@ -1,7 +1,6 @@
-[![MasterHead]()
+![MasterHead](https://github.com/omprakashchhetri/omprakashchhetri/blob/5da004e059c5d5330c449adbb6c5d376ea7f5027/my%20files/Master%20Head.jpg)
 <h1 align="center">Hi 👋, I'm OM</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" sre="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omprakashchhetri&label=Profile%20views&color=0e75b6&style=flat" alt="omprakashchhetri" /> </p>
 
